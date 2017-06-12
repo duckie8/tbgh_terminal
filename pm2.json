@@ -1,0 +1,18 @@
+{
+  "apps": [{
+    "name": "tbgh_terminal",
+    "script": "./app.js",
+    "args": [],
+    "watch": false,
+    "log_file": "/dev/null",
+    "out_file": "/dev/null",
+    "error_file": "/dev/null",
+    "max_memory_restart": "300M",
+    "env": {
+      "NODE_ENV": "production"
+    },
+    "env_dev": {
+      "NODE_ENV": "development"
+    }
+  }]
+}

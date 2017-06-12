@@ -1,0 +1,22 @@
+{
+  "name": "tbgh_terminal",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "pm2 start ./pm2.json"
+  },
+  "dependencies": {
+    "async": "^2.3.0",
+    "bluebird": "^3.5.0",
+    "iconv-lite": "^0.4.15",
+    "lodash": "^4.17.4",
+    "log4js": "^1.1.1",
+    "moment": "^2.18.1",
+    "mongoose": "^4.9.2",
+    "node-schedule": "^1.2.1",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "memeye": "^1.0.2"
+  }
+}

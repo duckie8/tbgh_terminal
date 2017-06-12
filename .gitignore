@@ -1,0 +1,10 @@
+*.log
+*.tern-project
+*.txt
+/node_modules
+*.jshintrc
+*.tag*
+*.ftpconfig
+*.eslintrc.json
+nodemon.json
+/.vscode
