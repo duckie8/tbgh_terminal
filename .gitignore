@@ -5,6 +5,4 @@
 *.jshintrc
 *.tag*
 *.ftpconfig
-*.eslintrc.json
-nodemon.json
 /.vscode
